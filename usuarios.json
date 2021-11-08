@@ -1,0 +1,24 @@
+[
+    {
+        "name": "Willian Corado",
+        "gender": "M",
+        "username": "admin",
+        "email": "admin@ipc1.com",
+        "password": "admin@ipc1",
+        "rol": "admin"
+    },
+    {
+        "name": "prueba",
+        "genero": "H",
+        "username": "Rodolfo",
+        "email": "reus@gmail.com",
+        "password": "prueba123."
+    },
+    {
+        "name": "rodolfo",
+        "genero": "H",
+        "username": "prueba",
+        "email": "prueba@gmail.com",
+        "password": "prueba1."
+    }
+]
