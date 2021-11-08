@@ -1,1 +1,0 @@
-web: guinicorn backend:app
